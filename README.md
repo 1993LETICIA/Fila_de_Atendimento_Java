@@ -27,7 +27,7 @@ NetBeans 8.2
  
 ## Authors
  
-* **Letícia Vieira**
+* **LETÍCIA VIEIRA**
  
  
 Thanks to visiting me and good coding!
